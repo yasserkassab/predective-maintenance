@@ -24,5 +24,5 @@ This repository contains a predictive maintenance analysis project that uses mac
 
 ## Dataset
 
-The dataset used in this project can be found [here][https://example.com/path-to-dataset](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification).
+The dataset used in this project is available on Kaggle. You can access it [here](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification).
 
